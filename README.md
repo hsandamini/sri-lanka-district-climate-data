@@ -68,12 +68,4 @@ R (≥ 4.0) with the following packages:
 install.packages(c("tidyverse", "lubridate"))
 ```
 
-## Citation
 
-If you use this dataset, please cite:
-- Climate data: CHIRPS (Funk et al., 2015) and ERA5 (Hersbach et al., 2020), accessed via Climate Engine
-- Administrative boundaries: Survey Department of Sri Lanka, via UN OCHA HDX (COD-AB)
-
-## License
-
-*(Add your preferred license here, e.g. MIT for code. Note that CHIRPS, ERA5, and HDX boundary data each have their own usage terms — check each source's license before redistributing the raw data itself.)*
